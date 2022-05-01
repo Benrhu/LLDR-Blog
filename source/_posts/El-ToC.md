@@ -39,7 +39,8 @@ Pero, en cambio, la obsesión por la programación o la CNV me hace aprender má
 
 Y sí, creo ferréamente, que si consigues alinearte con tu ToC, tienes superpoderes. Porqué tienes unas capacidades más elevadas que la mayoría de personas. Y esto es así.
 
-Recuerda que me puedes seguir en:
+Por cierto, que se me olvidaba: Estoy creando un programa por consola que simula el ToC, con [Deno](https://deno.land/) y [TypeScript](https://www.typescriptlang.org/)
 
+Recuerda que me puedes seguir en:
 [Twitter](https://twitter.com/rubdh89)
 [Twitch](https://twitch.com/lalocuraderuben)
