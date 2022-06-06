@@ -73,6 +73,6 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Rubén díaz - [@your_twitter](https://twitter.com/rubdh89) - rubendiaz300000@gmail.com
+Rubén díaz - [@Rubdh89](https://twitter.com/rubdh89) - rubendiaz300000@gmail.com
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
