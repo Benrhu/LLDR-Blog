@@ -1,38 +1,86 @@
----
-title: Hello World
----
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+<div id="top"></div>
 
-## Quick Start
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-### Create a new post
 
-``` bash
-$ hexo new "My New Post"
-```
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+    <img src="./blog.jpg" alt="Logo" >
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+  <h3 align="center">This is a easy blog created with [Hexo](https://hexo.io/)</h3>
 
-### Run server
+  <p align="center">
+    I try to share my life experience with my OCD (Obsessive Compulsive Disorder).
+    <br />
+    <br />
+    ·
+    <a href="https://github.com/Benrhu/LLDR-Blog/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Benrhu/LLDR-Blog/issues">Request Feature</a>
+  </p>
+</div>
 
-``` bash
-$ hexo server
-```
 
-More info: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-``` bash
-$ hexo generate
-```
 
-More info: [Generating](https://hexo.io/docs/generating.html)
 
-### Deploy to remote sites
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-``` bash
-$ hexo deploy
-```
+As you can imagine, I've OCD (Obsessive Compulsive Disorder) and I want to share my experience.
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+<p align="right">(<a href="#top">Back to top</a>)</p>
+
+### Built With
+
+This section should list any major frameworks/libraries used to develop this project:
+
+* [Hexo](https://hexo.io/)
+
+<p align="right">(<a href="#top">Back to top</a>)</p>
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License.
+
+<p align="right">(<a href="#top">Back to top</a>)</p>
+
+<!-- CONTACT -->
+## Contact
+
+Rubén díaz - [@your_twitter](https://twitter.com/rubdh89) - rubendiaz300000@gmail.com
+
+<p align="right">(<a href="#top">Back to top</a>)</p>
