@@ -1,0 +1,34 @@
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
+  title: 'La Locura de Rubén',
+  description: 'Blog ofical de La Locura de Rubén',
+  head: [
+    ['meta', { name: 'twitter:site', content: '@lalocuraderuben' }],
+    ['meta', { name: 'twitter:card', content: 'summary' }],
+    [
+      'meta',
+      {
+        name: 'twitter:image',
+        content: 'https://vuejs.org/images/logo.png'
+      }
+    ],
+    [
+      'link',
+      {
+        rel: 'icon',
+        type: 'image/x-icon',
+        href: '/favicon.ico'
+      }
+    ],
+    [
+      'script',
+      {
+        src: 'https://cdn.usefathom.com/script.js',
+        'data-site': 'NYHGSGQV',
+        'data-spa': 'auto',
+        defer: ''
+      }
+    ]
+  ]
+})
